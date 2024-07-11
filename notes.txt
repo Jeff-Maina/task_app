@@ -1,0 +1,4 @@
+SETTING UP;
+ - Install tailwind;
+ - Add custom font;
+ - Add Icons;
